@@ -4,6 +4,16 @@
     "fields": [
       {
         "component": "text",
+        "name": "title",
+        "label": "Title"
+      },
+      {
+        "component": "text",
+        "name": "description",
+        "label": "Description"
+      },
+      {
+        "component": "text",
         "name": "theme",
         "label": "Theme"
       },
