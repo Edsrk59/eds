@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/eds/:/",
-    "/content/eds/metadata:/metadata.json"
+    "/content/eds/metadata:/metadata.json",
+     "/content/eds/spreadsheet:/"
   ]
 }
