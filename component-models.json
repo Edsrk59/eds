@@ -3,9 +3,14 @@
     "id": "page-metadata",
     "fields": [
       {
-        "component": "boolean",
-        "name": "breadcrumbs",
-        "label": "Show Breadcrumbs"
+        "component": "text",
+        "name": "theme",
+        "label": "Theme"
+      },
+      {
+        "component": "text",
+        "name": "color",
+        "label": "Color"
       }
     ]
   },
