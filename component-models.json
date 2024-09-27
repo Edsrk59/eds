@@ -21,6 +21,11 @@
         "component": "text",
         "name": "color",
         "label": "Color"
+      },
+      {
+        "component": "text",
+        "name": "customprop",
+        "label": "Custom Property"
       }
     ]
   },
