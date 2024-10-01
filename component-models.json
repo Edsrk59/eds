@@ -1,6 +1,7 @@
 [
   {
     "id": "page-metadata",
+    "template": "index",
     "fields": [
       {
         "component": "text",
