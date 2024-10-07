@@ -26,7 +26,8 @@
       {
         "component": "text",
         "name": "customprop",
-        "label": "Custom Property"
+        "label": "Custom Property",
+        "condition": { "===": [{"var" : "EDS propert text"}, true] }
       }
     ]
   },
