@@ -1,7 +1,7 @@
 [
   {
     "id": "page-metadata",
-    "template": "index",
+    "condition": { "===": [{"var" : "EDS propert text"}, true] },
     "fields": [
       {
         "component": "text",
