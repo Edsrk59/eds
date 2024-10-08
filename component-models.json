@@ -27,7 +27,13 @@
         "name": "customprop",
         "label": "Custom Property",
         "condition": { "===": [{"var" : "EDS propert text"}, true] }
-      }
+      },
+      {
+      "component": "aem-tag",
+      "label": "AEM Tag Picker",
+      "name": "cq:tags",
+      "valueType": "string"
+    }
     ]
   },
   {
