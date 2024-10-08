@@ -37,8 +37,7 @@
         "component": "aem-experience-fragment",
         "name": "picker",
         "label": "Experience Fragment Picker",
-        "valueType": "string",
-        "variationName": "experienceFragmentVariation"
+        "valueType": "string"
       }
     ]
   },
