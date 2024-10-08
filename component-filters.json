@@ -43,8 +43,7 @@
   {
     "id": "table",
     "components": [
-      "table-row",
-      "date-time"
+      "table-row"
     ]
   },
   {
