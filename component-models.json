@@ -31,29 +31,6 @@
     ]
   },
   {
-    "id": "aem-experience-fragment",
-    "fields": [
-      {
-        "component": "aem-experience-fragment",
-        "name": "picker",
-        "label": "Experience Fragment Picker",
-        "valueType": "string",
-        "variationName": "master"
-      }
-    ]
-  },
-  {
-  "id": "date-time",
-  "fields": [
-    {
-      "component": "date-time",
-      "label": "Date & Time",
-      "name": "date",
-      "valueType": "date"
-    }
-  ]
-},
-  {
     "id": "image",
     "fields": [
       {
