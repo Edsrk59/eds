@@ -35,10 +35,10 @@ async function getElement(sk, selector) {
   });
 }
 
-function shouldHidePlugin(plugin) {
+/*function shouldHidePlugin(plugin) {
   const [pluginCls] = plugin.classList;
   return ['edit', 'reload', 'publish', 'delete', 'unpublish'].indexOf(pluginCls) !== -1;
-}
+}*/
 
 async function customizeButtons(sk) {
   const container = await getElement(sk, '.plugin-container');
