@@ -25,8 +25,7 @@
       {
         "component": "text",
         "name": "customprop",
-        "label": "Custom Property",
-        "condition": { "===": [{"var" : "abc"}, false] }
+        "label": "Custom Property"
       },
       {
       "component": "aem-tag",
