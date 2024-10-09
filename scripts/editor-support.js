@@ -1,10 +1,10 @@
 import {
-  //decorateBlock,
-  //decorateBlocks,
+  decorateBlock,
+  decorateBlocks,
   decorateButtons,
   decorateIcons,
   decorateSections,
-  //loadBlock,
+  loadBlock,
   loadSections,
 } from './aem.js';
 import { decorateRichtext } from './editor-support-rte.js';
@@ -24,7 +24,7 @@ async function applyChanges(event) {
   if (!content) return false;
 
   const parsedUpdate = new DOMParser().parseFromString(content, 'text/html');
-  const element = document.querySelector(`[data-aue-resource="${resource}"]`);
+ // const element = document.querySelector(`[data-aue-resource="${resource}"]`);
 
   if (element) {
     if (element.matches('main')) {
