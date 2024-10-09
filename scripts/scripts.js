@@ -8,7 +8,7 @@ import {
   decorateBlocks,
   decorateTemplateAndTheme,
   waitForFirstImage,
-  //loadSection,
+  loadSection,
   loadSections,
   loadCSS,
 } from './aem.js';
