@@ -11,7 +11,12 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "hero",
+      "cards",
+      "columns",
+      "fragment",
+      "table"
     ]
   },
   {
