@@ -1,8 +1,8 @@
 {
   "definitions": [
     {
-      "title": "My Text",
-      "id": "mytext",
+      "title": "Text EU",
+      "id": "texteu",
       "plugins": {
         "xwalk": {
           "page": {
