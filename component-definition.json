@@ -55,6 +55,18 @@
               }
             }
           }
+        },
+        {
+          "title": "My Text",
+          "id": "mytext",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/text/v1/text",
+                "template": {}
+              }
+            }
+          }
         }
       ]
     },
