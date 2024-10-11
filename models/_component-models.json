@@ -21,6 +21,6 @@
     "...": "./_component-eu.json#/textv1"
   },
   {
-    "...": "./_component-global.json#/textv2"
+    "...": "./_component-global.json#/textglob"
   }
 ]
