@@ -18,6 +18,9 @@
         },
         {
           "...": "./_textv1.json#/definitions"
+        },
+        {
+          "...": "./_textv2.json#/definitions"
         }
       ]
     },
