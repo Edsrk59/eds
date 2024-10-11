@@ -19,5 +19,8 @@
   },
   {
     "...": "./_component-eu.json#/textv1"
+  },
+  {
+    "...": "./_component-global.json#/textv2"
   }
 ]

@@ -3,7 +3,14 @@
     {
       "title": "Text Global",
       "id": "textglobal",
-      "...": "./_textv1.json#/definitions"
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/text/v1/text",
+            "template": {}
+          }
+        }
+      }
     }
   ],
   "models": [

@@ -69,20 +69,16 @@
           }
         },
         {
-          "0": {
-            "title": "Text EU",
-            "id": "texteu",
-            "plugins": {
-              "xwalk": {
-                "page": {
-                  "resourceType": "core/franklin/components/text/v1/text",
-                  "template": {}
-                }
+          "title": "Text Global",
+          "id": "textglobal",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/text/v1/text",
+                "template": {}
               }
             }
-          },
-          "title": "Text Global",
-          "id": "textglobal"
+          }
         }
       ]
     },
