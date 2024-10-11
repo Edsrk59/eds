@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": "globaltitle",
+    "id": "textglobal",
     "fields": [
       {
         "component": "select",
