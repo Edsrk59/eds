@@ -45,8 +45,8 @@
         "cards",
         "columns",
         "fragment",
-        "texteu",
-        "textglobal"
+        "titleeu",
+        "titleglobal"
       ]
     }
   ]

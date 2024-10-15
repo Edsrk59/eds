@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "Text Global",
-      "id": "textglobal",
+      "title": "Title Global",
+      "id": "titleglobal",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/title/v1/title",
             "template": {
-              "model": "textglobal"
+              "model": "titleglobal"
             }
           }
         }
@@ -17,7 +17,7 @@
   ],
   "models": [
     {
-      "id": "textglobal",
+      "id": "titleglobal",
       "fields": [
         {
           "component": "select",

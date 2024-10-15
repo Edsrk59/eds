@@ -1,17 +1,45 @@
 {
   "definitions": [
     {
-      "title": "Text EU",
-      "id": "texteu",
+      "title": "Title EU",
+      "id": "titleeu",
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "core/franklin/components/text/v1/text",
-            "template": {}
+            "resourceType": "core/franklin/components/title/v1/title",
+            "template": {
+              "model": "titleeu"
+            }
           }
         }
       }
     }
   ],
-  "models": []
+  "models": [
+    {
+      "id": "titleeu",
+      "fields": [
+        {
+          "component": "text",
+          "name": "titleeu",
+          "label": "Title EU"
+        },
+        {
+          "component": "select",
+          "name": "titleType",
+          "label": "Title Type",
+          "options": [
+            {
+              "name": "h1",
+              "value": "h1"
+            },
+            {
+              "name": "h2",
+              "value": "h2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

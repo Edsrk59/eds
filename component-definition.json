@@ -57,26 +57,28 @@
           }
         },
         {
-          "title": "Text EU",
-          "id": "texteu",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/text/v1/text",
-                "template": {}
-              }
-            }
-          }
-        },
-        {
-          "title": "Text Global",
-          "id": "textglobal",
+          "title": "Title EU",
+          "id": "titleeu",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/title/v1/title",
                 "template": {
-                  "model": "textglobal"
+                  "model": "titleeu"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Title Global",
+          "id": "titleglobal",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/title/v1/title",
+                "template": {
+                  "model": "titleglobal"
                 }
               }
             }
