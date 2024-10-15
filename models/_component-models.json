@@ -22,5 +22,8 @@
   },
   {
     "...": "./_component-global.json#/textglob"
+  },
+  {
+    "...": "./_sectionglobal.json#/models"
   }
 ]
