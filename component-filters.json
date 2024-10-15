@@ -2,8 +2,7 @@
   {
     "id": "main",
     "components": [
-      "section",
-      "sectionglobal"
+      "section"
     ]
   },
   {
@@ -40,13 +39,6 @@
       "image",
       "button",
       "title"
-    ]
-  },
-  {
-    "id": "sectionglobal",
-    "components": [
-      "titleeu",
-      "titleglobal"
     ]
   }
 ]

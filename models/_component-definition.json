@@ -30,9 +30,6 @@
       "components": [
         {
           "...": "./_section.json#/definitions"
-        },
-        {
-          "...": "./_sectionglobal.json#/definitions"
         }
       ]
     },

@@ -2,7 +2,7 @@
   {
     "id": "main",
     "components": [
-      "section", ""
+      "section"
     ]
   },
   {
@@ -10,8 +10,5 @@
   },
   {
     "...": "../blocks/*/_*.json#/filters"
-  },
-  {
-    "...": "./_sectionglobal.json#/filters"
   }
 ]
