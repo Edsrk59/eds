@@ -6,7 +6,7 @@
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "weretail/components/content/text",
+            "resourceType": "/apps/wknd/components/text",
             "template": {
               "model": "textglobal"
             }
