@@ -6,7 +6,7 @@
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "/apps/wknd/components/text",
+            "resourceType": "core/franklin/components/title/v1/title",
             "template": {
               "model": "textglobal"
             }
