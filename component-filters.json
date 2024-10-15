@@ -40,5 +40,12 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "sectionglobal",
+    "components": [
+      "titleeu",
+      "titleglobal"
+    ]
   }
 ]

@@ -1,0 +1,45 @@
+{
+  "definitions": [
+    {
+      "title": "Global Section",
+      "id": "sectionglobal",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/section/v1/section",
+            "template": {
+              "model": "sectionglobal"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "sectionglobal",
+      "fields": [
+        {
+          "component": "multiselect",
+          "name": "style",
+          "label": "Style",
+          "options": [
+            {
+              "name": "Highlight",
+              "value": "highlight"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "sectionglobal",
+      "components": [
+        "titleeu",
+        "titleglobal"
+      ]
+    }
+  ]
+}
