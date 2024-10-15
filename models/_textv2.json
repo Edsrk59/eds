@@ -6,7 +6,7 @@
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "/apps/wknd/components/text",
+            "resourceType": "/libs/core/wcm/components/text/v1/text",
             "template": {
               "model": "textglobal"
             }
