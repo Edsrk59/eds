@@ -2,13 +2,13 @@
   "definitions": [
     {
       "title": "Section Global",
-      "id": "section",
+      "id": "sectionglobal",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/section/v1/section",
             "template": {
-              "model": "section"
+              "model": "sectionglobal"
             }
           }
         }
@@ -17,7 +17,7 @@
   ],
   "models": [
     {
-      "id": "section",
+      "id": "sectionglobal",
       "fields": [
         {
           "component": "multiselect",
@@ -35,7 +35,7 @@
   ],
   "filters": [
     {
-      "id": "section",
+      "id": "sectionglobal",
       "components": [
         "hero"
       ]
