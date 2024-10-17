@@ -45,11 +45,5 @@
     "components": [
       "addcard"
     ]
-  },
-  {
-    "id": "addcard",
-    "components": [
-      "herog"
-    ]
   }
 ]
