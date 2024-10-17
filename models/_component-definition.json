@@ -33,7 +33,13 @@
       "components": [
         {
           "...": "../blocks/*/_*.json#/definitions"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Global Blocks",
+      "id": "globalblocks",
+      "components": [
         {
           "...": "../blocks/global/*/_*.json#/definitions"
         }

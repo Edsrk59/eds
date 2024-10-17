@@ -156,7 +156,13 @@
               }
             }
           }
-        },
+        }
+      ]
+    },
+    {
+      "title": "Global Blocks",
+      "id": "globalblocks",
+      "components": [
         {
           "title": "Global Block",
           "id": "globalblock",
