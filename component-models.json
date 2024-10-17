@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": "globalblockcontainer",
+    "id": "addcard",
     "fields": [
       {
         "component": "text",

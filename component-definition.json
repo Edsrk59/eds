@@ -178,14 +178,14 @@
           }
         },
         {
-          "title": "Add Block",
+          "title": "Ablock",
           "id": "addcard",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block/item",
                 "template": {
-                  "name": "Addblock",
+                  "name": "Ablock",
                   "model": "addcard"
                 }
               }
