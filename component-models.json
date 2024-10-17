@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": "globalblock",
+    "id": "globalblockcontainer",
     "fields": [
       {
         "component": "text",

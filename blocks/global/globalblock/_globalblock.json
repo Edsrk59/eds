@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "Global Block",
-      "id": "globalblock",
+      "title": "Global Block Container",
+      "id": "globalblockcontainer",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/columns/v1/columns",
             "template": {
-              "model": "globalblock"
+              "model": "globalblockcontainer"
             }
           }
         }
@@ -17,7 +17,7 @@
   ],
   "models": [
     {
-      "id": "globalblock",
+      "id": "globalblockcontainer",
       "fields": [
         {
           "component": "text",
@@ -31,7 +31,7 @@
   ],
   "filters": [
     {
-    "id": "globalblock",
+    "id": "globalblockcontainer",
     "components": [
       "column"
     ]

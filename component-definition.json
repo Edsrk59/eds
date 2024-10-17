@@ -160,18 +160,18 @@
       ]
     },
     {
-      "title": "Global Blocks",
-      "id": "globalblocks",
+      "title": "Global Section",
+      "id": "globalsection",
       "components": [
         {
-          "title": "Global Block",
-          "id": "globalblock",
+          "title": "Global Block Container",
+          "id": "globalblockcontainer",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/columns/v1/columns",
                 "template": {
-                  "model": "globalblock"
+                  "model": "globalblockcontainer"
                 }
               }
             }
