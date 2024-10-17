@@ -173,7 +173,7 @@
         },
         {
           "title": "Global Blocks",
-          "id": "globalBlocks",
+          "id": "sectionglob",
           "components": [
             {
               "title": "Hero Global",
