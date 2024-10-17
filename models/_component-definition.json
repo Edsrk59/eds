@@ -38,7 +38,7 @@
     },
     {
       "title": "Global Section",
-      "id": "globalsection",
+      "id": "globalblocksection",
       "components": [
         {
           "...": "../blocks/global/*/_*.json#/definitions"

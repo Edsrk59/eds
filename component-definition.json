@@ -161,7 +161,7 @@
     },
     {
       "title": "Global Section",
-      "id": "globalsection",
+      "id": "globalblocksection",
       "components": [
         {
           "title": "Global Block Container",
