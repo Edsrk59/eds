@@ -38,7 +38,13 @@
           "...": "../blocks/*/_*.json#/definitions"
         },
         {
-          "...": "../blocks/global/*/_*.json#/definitions"
+          "title": "Global Blocks",
+          "id": "globalBlocks",
+          "components": [
+            {
+              "...": "../blocks/global/*/_*.json#/definitions"
+            }
+          ]
         }
       ]
     }
