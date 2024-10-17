@@ -2,7 +2,8 @@
   {
     "id": "main",
     "components": [
-      "section"
+      "section",
+      "sectionglob"
     ]
   },
   {
@@ -17,6 +18,12 @@
       "columns",
       "fragment",
       "titleglobal"
+    ]
+  },
+  {
+    "id": "sectionglob",
+    "components": [
+      "hero"
     ]
   },
   {
