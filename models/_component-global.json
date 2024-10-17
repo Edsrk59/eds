@@ -2,6 +2,9 @@
   "textglob": [
     {
       "...": "./_textv2.json#/models"
+    },
+    {
+      "...": "../blocks/global/*/_*.json#/models"
     }
   ]
 }
