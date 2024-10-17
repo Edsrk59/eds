@@ -186,7 +186,7 @@
           }
         },
         {
-          "title": "Hero",
+          "title": "Hero Global",
           "id": "hero",
           "plugins": {
             "xwalk": {
