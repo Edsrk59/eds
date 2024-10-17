@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": "hero",
+    "id": "heroglobal",
     "fields": [
       {
         "component": "reference",
