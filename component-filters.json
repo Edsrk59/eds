@@ -45,11 +45,5 @@
     "components": [
       "hero"
     ]
-  },
-  {
-    "id": "hero",
-    "components": [
-      "hero"
-    ]
   }
 ]
