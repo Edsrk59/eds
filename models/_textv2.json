@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "Title Global",
-      "id": "titleglobal",
+      "title": "Global Section",
+      "id": "globalsection",
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "core/franklin/components/title/v1/title",
+            "resourceType": "core/franklin/components/section/v1/section",
             "template": {
-              "model": "titleglobal"
+              "model": "globalsection"
             }
           }
         }
@@ -17,27 +17,27 @@
   ],
   "models": [
     {
-      "id": "titleglobal",
+      "id": "globalsection",
       "fields": [
         {
-          "component": "select",
-          "name": "titleType",
-          "label": "Title Type",
+          "component": "multiselect",
+          "name": "style",
+          "label": "Style",
           "options": [
             {
-              "name": "h1",
-              "value": "h1"
-            },
-            {
-              "name": "h2",
-              "value": "h2"
-            },
-            {
-              "name": "h3",
-              "value": "h3"
+              "name": "Highlight",
+              "value": "highlight"
             }
           ]
         }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "globalsection",
+      "components": [
+        "hero"
       ]
     }
   ]

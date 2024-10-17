@@ -2,8 +2,7 @@
   {
     "id": "main",
     "components": [
-      "section",
-      "sectionglob"
+      "section"
     ]
   },
   {
@@ -17,13 +16,8 @@
       "cards",
       "columns",
       "fragment",
-      "titleglobal"
-    ]
-  },
-  {
-    "id": "sectionglob",
-    "components": [
-      "hero"
+      "titleglobal",
+      "globalsection"
     ]
   },
   {
