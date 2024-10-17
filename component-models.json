@@ -186,18 +186,14 @@
     ]
   },
   {
-    "id": "globalsection",
+    "id": "globalblock",
     "fields": [
       {
-        "component": "multiselect",
-        "name": "style",
-        "label": "Style",
-        "options": [
-          {
-            "name": "Highlight",
-            "value": "highlight"
-          }
-        ]
+        "component": "text",
+        "valueType": "string",
+        "name": "blockid",
+        "label": "Block Id",
+        "value": ""
       }
     ]
   },
