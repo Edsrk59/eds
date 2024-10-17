@@ -15,27 +15,29 @@
       }
     }
   ],
-  "models": [    {
-    "id": "sectionglob",
-    "fields": [
-      {
-        "component": "multiselect",
-        "name": "style",
-        "label": "Style",
-        "options": [
-          {
-            "name": "Sample",
-            "value": "sample"
-          }
-        ]
-      }
-    ]
-  }],
+  "models": [
+    {
+      "id": "sectionglob",
+      "fields": [
+        {
+          "component": "multiselect",
+          "name": "style",
+          "label": "Style",
+          "options": [
+            {
+              "name": "Highlight",
+              "value": "highlight"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "filters": [
     {
       "id": "sectionglob",
       "components": [
-        "heroglobabc"
+        "hero"
       ]
     }
   ]

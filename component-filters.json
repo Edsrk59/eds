@@ -2,8 +2,7 @@
   {
     "id": "main",
     "components": [
-      "section",
-      "sectionglob"
+      "section"
     ]
   },
   {
@@ -17,14 +16,7 @@
       "cards",
       "columns",
       "fragment",
-      "titleeu",
       "titleglobal"
-    ]
-  },
-  {
-    "id": "sectionglob",
-    "components": [
-      "heroglobabc"
     ]
   },
   {

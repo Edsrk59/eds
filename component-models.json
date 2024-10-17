@@ -186,31 +186,6 @@
     ]
   },
   {
-    "id": "titleeu",
-    "fields": [
-      {
-        "component": "text",
-        "name": "titleeu",
-        "label": "Title EU"
-      },
-      {
-        "component": "select",
-        "name": "titleType",
-        "label": "Title Type",
-        "options": [
-          {
-            "name": "h1",
-            "value": "h1"
-          },
-          {
-            "name": "h2",
-            "value": "h2"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "titleglobal",
     "fields": [
       {
@@ -243,8 +218,8 @@
         "label": "Style",
         "options": [
           {
-            "name": "Sample",
-            "value": "sample"
+            "name": "Highlight",
+            "value": "highlight"
           }
         ]
       }

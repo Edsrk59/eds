@@ -55,34 +55,6 @@
               }
             }
           }
-        },
-        {
-          "title": "Title EU",
-          "id": "titleeu",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/title/v1/title",
-                "template": {
-                  "model": "titleeu"
-                }
-              }
-            }
-          }
-        },
-        {
-          "title": "Title Global",
-          "id": "titleglobal",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/title/v1/title",
-                "template": {
-                  "model": "titleglobal"
-                }
-              }
-            }
-          }
         }
       ]
     },
@@ -99,20 +71,6 @@
                 "resourceType": "core/franklin/components/section/v1/section",
                 "template": {
                   "model": "section"
-                }
-              }
-            }
-          }
-        },
-        {
-          "title": "Section Global",
-          "id": "sectionglob",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/section/v1/section",
-                "template": {
-                  "model": "sectionglob"
                 }
               }
             }

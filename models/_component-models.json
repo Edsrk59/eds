@@ -18,9 +18,6 @@
     "...": "../blocks/*/_*.json#/models"
   },
   {
-    "...": "./_component-eu.json#/textv1"
-  },
-  {
-    "...": "./_component-global.json#/textglob"
+    "...": "./_component-global.json#/global"
   }
 ]

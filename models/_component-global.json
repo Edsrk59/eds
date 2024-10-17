@@ -1,5 +1,5 @@
 {
-  "textglob": [
+  "global": [
     {
       "...": "./_textv2.json#/models"
     },
