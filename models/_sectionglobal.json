@@ -15,12 +15,27 @@
       }
     }
   ],
-  "models": [],
+  "models": [    {
+    "id": "sectionglob",
+    "fields": [
+      {
+        "component": "multiselect",
+        "name": "style",
+        "label": "Style",
+        "options": [
+          {
+            "name": "Sample",
+            "value": "sample"
+          }
+        ]
+      }
+    ]
+  }],
   "filters": [
     {
       "id": "sectionglob",
       "components": [
-        "hero"
+        "heroglobabc"
       ]
     }
   ]

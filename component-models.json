@@ -235,6 +235,22 @@
     ]
   },
   {
+    "id": "sectionglob",
+    "fields": [
+      {
+        "component": "multiselect",
+        "name": "style",
+        "label": "Style",
+        "options": [
+          {
+            "name": "Sample",
+            "value": "sample"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "heroglobal",
     "fields": [
       {
