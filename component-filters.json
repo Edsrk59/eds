@@ -43,11 +43,11 @@
   {
     "id": "globalblockcontainer",
     "components": [
-      "column"
+      "addcard"
     ]
   },
   {
-    "id": "column",
+    "id": "addcard",
     "components": [
       "herog"
     ]

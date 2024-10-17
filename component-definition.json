@@ -169,9 +169,24 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/columns/v1/columns",
+                "resourceType": "core/franklin/components/block/v1/block",
                 "template": {
                   "model": "globalblockcontainer"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Add Block",
+          "id": "addcard",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Addblock",
+                  "model": "addcard"
                 }
               }
             }
