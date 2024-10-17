@@ -179,21 +179,6 @@
           }
         },
         {
-          "title": "Ablock",
-          "id": "addcard",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/block/v1/block/item",
-                "template": {
-                  "name": "Ablock",
-                  "model": "addcard"
-                }
-              }
-            }
-          }
-        },
-        {
           "title": "Hero Global",
           "id": "herog",
           "plugins": {
