@@ -106,13 +106,13 @@
         },
         {
           "title": "Section Global",
-          "id": "sectionglobal",
+          "id": "sectionglob",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/section/v1/section",
                 "template": {
-                  "model": "sectionglobal"
+                  "model": "sectionglob"
                 }
               }
             }

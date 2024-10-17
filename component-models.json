@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": "sectionglobal",
+    "id": "sectionglob",
     "fields": [
       {
         "component": "multiselect",

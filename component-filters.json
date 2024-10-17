@@ -22,7 +22,7 @@
     ]
   },
   {
-    "id": "sectionglobal",
+    "id": "sectionglob",
     "components": [
       "hero"
     ]
