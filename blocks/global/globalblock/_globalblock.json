@@ -33,14 +33,8 @@
     {
     "id": "globalblockcontainer",
     "components": [
-      "column"
+      "herog"
     ]
-  },
-    {
-      "id": "column",
-      "components": [
-        "herog"
-      ]
-    }
+  }
   ]
 }
