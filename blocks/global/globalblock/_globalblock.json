@@ -6,7 +6,7 @@
       "plugins": {
         "xwalk": {
           "page": {
-            "resourceType": "core/franklin/components/section/v1/section",
+            "resourceType": "core/franklin/components/columns/v1/columns",
             "template": {
               "model": "globalblock"
             }
@@ -29,10 +29,18 @@
       ]
     }
   ],
-  "filters": [ {
+  "filters": [
+    {
     "id": "globalblock",
     "components": [
-      "hero"
+      "column"
     ]
-  }]
+  },
+    {
+      "id": "column",
+      "components": [
+        "hero"
+      ]
+    }
+  ]
 }

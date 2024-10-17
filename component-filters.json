@@ -43,6 +43,12 @@
   {
     "id": "globalblock",
     "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
       "hero"
     ]
   }
