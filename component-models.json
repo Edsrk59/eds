@@ -202,18 +202,6 @@
     ]
   },
   {
-    "id": "addcard",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "globalid",
-        "label": "Global Id",
-        "value": ""
-      }
-    ]
-  },
-  {
     "id": "herog",
     "fields": [
       {
