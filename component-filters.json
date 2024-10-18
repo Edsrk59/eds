@@ -39,17 +39,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "main",
-    "components": [
-      "section-global"
-    ]
-  },
-  {
-    "id": "section-global",
-    "components": [
-      "herog"
-    ]
   }
 ]

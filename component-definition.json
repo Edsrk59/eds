@@ -160,26 +160,6 @@
       ]
     },
     {
-      "title": "Sections",
-      "id": "sections",
-      "components": [
-        {
-          "title": "Section Global",
-          "id": "section-global",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/section/v1/section",
-                "template": {
-                  "model": "section-global"
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
       "title": "Global Blocks",
       "id": "globalblocks",
       "components": [

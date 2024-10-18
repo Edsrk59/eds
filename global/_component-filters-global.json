@@ -1,14 +1,5 @@
 [
   {
-    "id": "main",
-    "components": [
-      "section-global"
-    ]
-  },
-  {
-    "...": "./_section-global.json#/filters"
-  },
-  {
     "...": "../global/*/_*.json#/filters"
   }
 ]
