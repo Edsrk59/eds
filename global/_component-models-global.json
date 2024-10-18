@@ -1,8 +1,10 @@
-[
-  {
-    "...": "./_section-global.json#/models"
-  },
-  {
-    "...": "../global/*/_*.json#/models"
-  }
-]
+{
+  "models": [
+    {
+      "...": "./_section-global.json#/models"
+    },
+    {
+      "...": "../global/*/_*.json#/models"
+    }
+  ]
+}
