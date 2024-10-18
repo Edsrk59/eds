@@ -18,6 +18,6 @@
     "...": "../blocks/*/_*.json#/models"
   },
   {
-    "...": "./_component-global.json#/global"
+    "...": "../blocks/global/_sectionglobal.json#/models"
   }
 ]

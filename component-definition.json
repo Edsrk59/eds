@@ -159,6 +159,22 @@
           }
         },
         {
+          "title": "Section Global",
+          "id": "sectionglob",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/section/v1/section",
+                "template": {
+                  "name": "Section Global",
+                  "model": "sectionglob",
+                  "filter": "sectionglob"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Hero",
           "id": "hero",
           "plugins": {
@@ -168,27 +184,6 @@
                 "template": {
                   "name": "Hero",
                   "model": "hero"
-                }
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "title": "Global Section",
-      "id": "globalblocksection",
-      "components": [
-        {
-          "title": "Hero Global",
-          "id": "herog",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/block/v1/block",
-                "template": {
-                  "name": "Hero",
-                  "model": "herog"
                 }
               }
             }
