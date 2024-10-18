@@ -38,15 +38,6 @@
           "...": "../blocks/*/_*.json#/definitions"
         }
       ]
-    },
-    {
-      "title": "Global Section",
-      "id": "globalblocksection",
-      "components": [
-        {
-          "...": "../blocks/global/*/_*.json#/definitions"
-        }
-      ]
     }
   ]
 }
