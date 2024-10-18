@@ -1,0 +1,8 @@
+[
+  {
+    "...": "./_section-global.json#/models"
+  },
+  {
+    "...": "./global/*/_*.json#/models"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "title": "Sections",
+      "id": "sections",
+      "components": [
+        {
+          "...": "./_section-global.json#/definitions"
+        }
+      ]
+    },
+    {
+      "title": "Global Blocks",
+      "id": "globalblocks",
+      "components": [
+        {
+          "...": "../blocks/global/*/_*.json#/definitions"
+        }
+      ]
+    }
+  ]
+}
