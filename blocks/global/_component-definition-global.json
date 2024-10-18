@@ -14,7 +14,7 @@
       "id": "globalblocks",
       "components": [
         {
-          "...": "../blocks/global/*/_*.json#/definitions"
+          "...": "./global/*/_*.json#/definitions"
         }
       ]
     }
