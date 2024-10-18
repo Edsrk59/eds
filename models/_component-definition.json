@@ -1,10 +1,10 @@
 {
   "groups": [
     {
-      "...": "../global/_component-definition-global.json#/groups"
+      "...": "./_default-component-definition.json#/groups"
     },
     {
-      "...": "./_default-component-definition.json#/groups"
+      "...": "../global/_component-definition-global.json#/groups"
     }
   ]
 }
