@@ -1,23 +1,8 @@
 [
   {
-    "...": "./_image.json#/models"
+    "...": "./_default-component-models.json"
   },
   {
-    "...": "./_title.json#/models"
-  },
-  {
-    "...": "./_text.json#/models"
-  },
-  {
-    "...": "./_button.json#/models"
-  },
-  {
-    "...": "./_section.json#/models"
-  },
-  {
-    "...": "../blocks/*/_*.json#/models"
-  },
-  {
-    "...": "../global/_component-models-global.json#/models"
+    "...": "../global/_component-models-global.json"
   }
 ]
