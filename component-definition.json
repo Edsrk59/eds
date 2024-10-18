@@ -74,6 +74,22 @@
               }
             }
           }
+        },
+        {
+          "title": "Section Global",
+          "id": "sectionglob",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/section/v1/section",
+                "template": {
+                  "name": "Section Global",
+                  "model": "sectionglob",
+                  "filter": "sectionglob"
+                }
+              }
+            }
+          }
         }
       ]
     },

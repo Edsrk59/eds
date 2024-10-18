@@ -20,6 +20,12 @@
     ]
   },
   {
+    "id": "sectionglob",
+    "components": [
+      "herog"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
