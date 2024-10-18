@@ -172,44 +172,42 @@
               }
             }
           }
-        },
+        }
+      ]
+    },
+    {
+      "title": "Global Section",
+      "id": "globalblocksection",
+      "components": [
         {
-          "id": "addcard",
-          "fields": [
-            {
-              "component": "text",
-              "valueType": "string",
-              "name": "globalid",
-              "label": "Global Id",
-              "value": ""
+          "title": "Global Block Container",
+          "id": "globalblockcontainer",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Global Block Container",
+                  "filter": "globalblockcontainer"
+                }
+              }
             }
-          ]
+          }
         },
         {
+          "title": "Hero Global",
           "id": "herog",
-          "fields": [
-            {
-              "component": "reference",
-              "valueType": "string",
-              "name": "image",
-              "label": "Image",
-              "multi": false
-            },
-            {
-              "component": "text",
-              "valueType": "string",
-              "name": "imageAlt",
-              "label": "Alt",
-              "value": ""
-            },
-            {
-              "component": "richtext",
-              "name": "text",
-              "value": "",
-              "label": "Text",
-              "valueType": "string"
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Hero",
+                  "model": "herog"
+                }
+              }
             }
-          ]
+          }
         }
       ]
     }
