@@ -9,6 +9,6 @@
     "...": "./_section-global.json#/filters"
   },
   {
-    "...": "./global/*/_*.json#/filters"
+    "...": "../global/*/_*.json#/filters"
   }
 ]
