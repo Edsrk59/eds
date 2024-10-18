@@ -1,13 +1,6 @@
 {
   "groups": [
     {
-      "title": "Sections",
-      "id": "sections",
-      "components": [
-        {}
-      ]
-    },
-    {
       "title": "Global Blocks",
       "id": "globalblocks",
       "components": [
