@@ -36,6 +36,9 @@
       "components": [
         {
           "...": "../blocks/*/_*.json#/definitions"
+        },
+        {
+          "...": "../blocks/global/*/_*.json#/models"
         }
       ]
     }
