@@ -2,13 +2,42 @@
   {
     "id": "main",
     "components": [
-      "section-global"
+      "section"
     ]
   },
   {
-    "id": "section-global",
+    "id": "section",
     "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "columns",
+      "fragment",
       "herog"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
     ]
   }
 ]
