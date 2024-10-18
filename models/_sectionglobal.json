@@ -8,7 +8,9 @@
           "page": {
             "resourceType": "core/franklin/components/section/v1/section",
             "template": {
-              "model": "sectionglob"
+              "name": "Section Global",
+              "model": "sectionglob",
+              "filter": "sectionglob"
             }
           }
         }
@@ -37,7 +39,7 @@
     {
       "id": "sectionglob",
       "components": [
-        "hero"
+        "herog"
       ]
     }
   ]

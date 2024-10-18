@@ -1,6 +1,9 @@
 {
   "global": [
     {
+      "...": "./_sectionglobal.json#/models"
+    },
+    {
       "...": "../blocks/global/*/_*.json#/models"
     }
   ]

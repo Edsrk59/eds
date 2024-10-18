@@ -2,7 +2,8 @@
   {
     "id": "main",
     "components": [
-      "section"
+      "section",
+      "sectionglob"
     ]
   },
   {
@@ -17,6 +18,12 @@
       "columns",
       "fragment",
       "globalblockcontainer"
+    ]
+  },
+  {
+    "id": "sectionglob",
+    "components": [
+      "herog"
     ]
   },
   {
