@@ -5,7 +5,7 @@
       "id": "sections",
       "components": [
         {
-          "...": "./_section-global.json#/definitions"
+
         }
       ]
     },

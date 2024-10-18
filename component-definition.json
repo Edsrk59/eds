@@ -3,7 +3,9 @@
     {
       "title": "Sections",
       "id": "sections",
-      "components": []
+      "components": [
+        {}
+      ]
     },
     {
       "title": "Global Blocks",
