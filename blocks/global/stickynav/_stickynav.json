@@ -32,8 +32,8 @@
           "label": "Menu Links",
           "name": "menu",
           "valueType": "string",
-          "collapsible": false,
           "multi": true,
+          "collapsible": true,
           "fields": [
             {
               "component": "text",

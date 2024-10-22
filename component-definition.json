@@ -144,27 +144,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "Global Blocks",
-      "id": "globalblocks",
-      "components": [
-        {
-          "title": "Sticky Nav",
-          "id": "stickynav1",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/block/v1/block",
-                "template": {
-                  "name": "Sticky",
-                  "model": "stickynav1"
-                }
-              }
-            }
-          }
-        }
-      ]
     }
   ]
 }
