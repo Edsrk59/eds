@@ -25,14 +25,23 @@
           "valueType": "string",
           "name": "menutitle",
           "label": "Menu Title",
-          "value": ""
+          "value": "",
+          "multi": true,
+          "fields": [
+            {
+              "component": "text",
+              "label": "Link Title",
+              "name": "linktitle",
+              "valueType": "string",
+              "value": ""
+            }
+          ]
         },
         {
           "component": "container",
           "label": "Menu Links",
           "name": "menu",
           "valueType": "string",
-          "multi": true,
           "collapsible": true,
           "fields": [
             {
