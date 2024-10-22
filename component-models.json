@@ -184,24 +184,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "stickynav",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "menutitle",
-        "label": "Menu Title",
-        "value": ""
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "menu",
-        "label": "Menu",
-        "value": ""
-      }
-    ]
   }
 ]
