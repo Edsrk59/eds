@@ -184,5 +184,53 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "stickynav1",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "navtitle",
+        "label": "Navigation Title",
+        "value": ""
+      },
+      {
+        "component": "container",
+        "label": "Navigation",
+        "name": "navigation",
+        "collapsible": true,
+        "fields": [
+          {
+            "component": "container",
+            "label": "",
+            "name": "menutitles",
+            "fields": [
+              {
+                "component": "text",
+                "label": "Menu Title",
+                "name": "menutitle",
+                "valueType": "string",
+                "value": "",
+                "multi": true
+              }
+            ]
+          },
+          {
+            "component": "container",
+            "label": "",
+            "name": "menulinks",
+            "fields": [
+              {
+                "component": "aem-content",
+                "name": "menilink",
+                "label": "Menu Link",
+                "multi": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
