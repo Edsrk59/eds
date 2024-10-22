@@ -150,7 +150,7 @@
       "id": "globalblocks",
       "components": [
         {
-          "title": "Sticky",
+          "title": "Sticky Nav",
           "id": "stickynav1",
           "plugins": {
             "xwalk": {
