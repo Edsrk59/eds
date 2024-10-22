@@ -37,24 +37,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "navigation",
-    "components": [
-      "navlink"
-    ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title",
-      "cards",
-      "columns",
-      "fragment",
-      "navigation"
-    ]
   }
 ]
