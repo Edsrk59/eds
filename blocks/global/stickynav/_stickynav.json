@@ -29,21 +29,37 @@
         },
         {
           "component": "container",
-          "label": "Menu Links",
+          "label": "Menu",
           "name": "menu",
-          "multi": true,
+          "collapsible": true,
           "fields": [
             {
-              "component": "text",
-              "label": "Link Title",
-              "name": "linktitle",
-              "valueType": "string",
-              "value": ""
+              "component": "container",
+              "label": "Menu Titles",
+              "name": "menutitles",
+              "fields": [
+                {
+                  "component": "text",
+                  "label": "Menu Title",
+                  "name": "menutitle",
+                  "valueType": "string",
+                  "value": "",
+                  "multi": true
+                }
+              ]
             },
             {
-              "component": "aem-content",
-              "name": "link",
-              "label": "Link"
+              "component": "container",
+              "label": "Menu Links",
+              "name": "menulinks",
+              "fields": [
+                {
+                  "component": "aem-content",
+                  "name": "menilink",
+                  "label": "Menu Link",
+                  "multi": true
+                }
+              ]
             }
           ]
         }
