@@ -200,7 +200,7 @@
         "label": "Menu Links",
         "name": "menu",
         "fields": [
-          "multi": true
+          {"multi": true
           {
             "component": "text",
             "label": "Link Title",
@@ -213,6 +213,7 @@
             "name": "link",
             "label": "Link",
             "multi": true
+          }
           }
         ]
       }
