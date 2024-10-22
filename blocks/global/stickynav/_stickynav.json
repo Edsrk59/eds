@@ -32,7 +32,8 @@
           "valueType": "string",
           "name": "menu",
           "label": "Menu",
-          "value": ""
+          "value": "",
+          "multi" : true
         }
       ]
     }

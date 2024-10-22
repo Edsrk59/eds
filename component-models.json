@@ -8,13 +8,11 @@
         "label": "Image",
         "multi": false
       },
-       "fields": [
       {
         "component": "text",
         "name": "imageAlt",
         "label": "Alt Text"
       }
-       ]
     ]
   },
   {
@@ -184,26 +182,6 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "stickynav1",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "menutitle",
-        "label": "Menu Title",
-        "value": ""
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "menu",
-        "label": "Menu",
-        "value": "",
-        "multi": true
       }
     ]
   }
