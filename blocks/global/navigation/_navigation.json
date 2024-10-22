@@ -17,14 +17,14 @@
       }
     },
     {
-      "title": "Navigation Link",
+      "title": "Link",
       "id": "navlink",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/block/v1/block/item",
             "template": {
-              "name": "Navigation Link",
+              "name": "Link",
               "model": "navlink"
             }
           }
@@ -39,8 +39,8 @@
         {
           "component": "text",
           "valueType": "string",
-          "name": "navigationTitle",
-          "label": "Navigation Title",
+          "name": "navTitle",
+          "label": "Title",
           "value": ""
         }
       ]
@@ -52,7 +52,7 @@
           "component": "text",
           "valueType": "string",
           "name": "linkTitle",
-          "label": "Link Title",
+          "label": "Title",
           "value": ""
         },
         {
