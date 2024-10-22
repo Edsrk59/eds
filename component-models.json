@@ -201,7 +201,6 @@
         "name": "menu",
         "valueType": "string",
         "collapsible": false,
-        "multi": true,
         "fields": [
           {
             "component": "text",
