@@ -1,11 +1,14 @@
 {
   "groups": [
     {
+      "...": "../../models/_component-definition.json#/groups"
+    },
+    {
       "title": "Global Blocks",
       "id": "globalblocks",
       "components": [
         {
-          "...": "../global/*/_*.json#/definitions"
+          "...": "./*/_*.json#/definitions"
         }
       ]
     }

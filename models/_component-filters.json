@@ -1,8 +1,14 @@
 [
   {
-    "...": "./_default-component-filters.json"
+    "id": "main",
+    "components": [
+      "section"
+    ]
   },
   {
-    "...": "../global/_component-filters-global.json"
+    "...": "./_section.json#/filters"
+  },
+  {
+    "...": "../blocks/*/_*.json#/filters"
   }
 ]

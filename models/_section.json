@@ -37,15 +37,9 @@
     {
       "id": "section",
       "components": [
-        "text",
-        "image",
-        "button",
-        "title",
-        "hero",
-        "cards",
-        "columns",
-        "fragment",
-        "herog"
+        {
+          "...": "./_section-component.json"
+        }
       ]
     }
   ]
