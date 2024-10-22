@@ -196,16 +196,15 @@
         "name": "menutitle",
         "label": "Menu Title",
         "value": ""
-      }
-      "fields": [
+      },
       {
         "component": "text",
         "valueType": "string",
         "name": "menu",
         "label": "Menu",
-        "value": ""
+        "value": "",
+        "multi": true
       }
-      ]
     ]
   }
 ]
