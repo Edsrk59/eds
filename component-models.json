@@ -184,35 +184,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "navigation",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "navTitle",
-        "label": "Title",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "id": "navlink",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "linkTitle",
-        "label": "Title",
-        "value": ""
-      },
-      {
-        "component": "aem-content",
-        "valueType": "string",
-        "name": "stickylink",
-        "label": "Link"
-      }
-    ]
   }
 ]
