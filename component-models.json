@@ -200,13 +200,13 @@
         "label": "Menu Links",
         "name": "menu",
         "fields": [
+          "multi": true
           {
             "component": "text",
             "label": "Link Title",
             "name": "linktitle",
             "valueType": "string",
-            "value": "",
-            "multi": true
+            "value": ""
           },
           {
             "component": "aem-content",
