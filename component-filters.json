@@ -37,18 +37,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title",
-      "cards",
-      "columns",
-      "fragment",
-      "stickynav1"
-    ]
   }
 ]

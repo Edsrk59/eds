@@ -23,19 +23,19 @@
         {
           "component": "text",
           "valueType": "string",
-          "name": "menutitle",
-          "label": "Menu Title",
+          "name": "navtitle",
+          "label": "Navigation Title",
           "value": ""
         },
         {
           "component": "container",
-          "label": "Menu",
-          "name": "menu",
+          "label": "Navigation",
+          "name": "navigation",
           "collapsible": true,
           "fields": [
             {
               "component": "container",
-              "label": "Menu Titles",
+              "label": "",
               "name": "menutitles",
               "fields": [
                 {
@@ -50,7 +50,7 @@
             },
             {
               "component": "container",
-              "label": "Menu Links",
+              "label": "",
               "name": "menulinks",
               "fields": [
                 {
