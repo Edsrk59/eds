@@ -209,7 +209,7 @@
         "component": "container",
         "label": "Menu Links",
         "name": "menu",
-        "valueType": "string",
+        "valueType": "string[]",
         "collapsible": true,
         "fields": [
           {
