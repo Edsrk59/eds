@@ -184,48 +184,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "stickynav1",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "menutitle",
-        "label": "Menu Title",
-        "value": "",
-        "multi": true,
-        "fields": [
-          {
-            "component": "text",
-            "label": "Link Title",
-            "name": "linktitle",
-            "valueType": "string",
-            "value": ""
-          }
-        ]
-      },
-      {
-        "component": "container",
-        "label": "Menu Links",
-        "name": "menu",
-        "valueType": "string[]",
-        "collapsible": true,
-        "fields": [
-          {
-            "component": "text",
-            "label": "Link Title",
-            "name": "linktitle",
-            "valueType": "string",
-            "value": ""
-          },
-          {
-            "component": "aem-content",
-            "name": "link",
-            "label": "Link"
-          }
-        ]
-      }
-    ]
   }
 ]
