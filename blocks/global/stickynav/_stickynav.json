@@ -28,12 +28,26 @@
           "value": ""
         },
         {
-          "component": "text",
-          "valueType": "string",
+          "component": "container",
+          "label": "Menu Links",
           "name": "menu",
-          "label": "Menu",
-          "value": "",
-          "multi" : true
+          "valueType": "string",
+          "collapsible": false,
+          "multi": true,
+          "fields": [
+            {
+              "component": "text",
+              "label": "Link Title",
+              "name": "linktitle",
+              "valueType": "string",
+              "value": ""
+            },
+            {
+              "component": "aem-content",
+              "name": "link",
+              "label": "Link"
+            }
+          ]
         }
       ]
     }
