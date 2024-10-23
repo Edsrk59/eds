@@ -1,7 +1,7 @@
 {
   "definitions": [
     {
-      "title": "B007-StictyNavigationaaaaaaaaaaaaaaaaaaaa",
+      "title": "B007-StictyNavigation",
       "id": "stictyNavigation",
       "plugins": {
         "xwalk": {
