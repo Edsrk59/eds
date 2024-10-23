@@ -144,6 +144,11 @@
           }
         }
       ]
+    },
+    {
+      "title": "Global Blocks",
+      "id": "globalblocks",
+      "components": []
     }
   ]
 }
