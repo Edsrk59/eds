@@ -2,13 +2,13 @@
   "definitions": [
     {
       "title": "B001-Title",
-      "id": "commontitle",
+      "id": "commonTitle",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/title/v1/title",
             "template": {
-              "model": "commontitle"
+              "model": "commonTitle"
             }
           }
         }
@@ -17,7 +17,7 @@
   ],
   "models": [
     {
-      "id": "commontitle",
+      "id": "commonTitle",
       "fields": [
         {
           "component": "text",

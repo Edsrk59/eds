@@ -35,7 +35,8 @@
     {
       "id": "heroIntro",
       "components": [
-        "commontitle"
+        "commonTitle",
+        "commonImage"
       ]
     }
   ]
