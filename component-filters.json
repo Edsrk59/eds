@@ -39,6 +39,12 @@
     ]
   },
   {
+    "id": "stictyNavigation",
+    "components": [
+      "navlink"
+    ]
+  },
+  {
     "id": "section",
     "components": [
       "text",
