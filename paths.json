@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/eds/nissan/language-master/en/:/nissan/*/",
-    "/content/eds/infinity/language-master/en/:/infinity/*/"
+    "/content/eds/:/"
   ]
 }
