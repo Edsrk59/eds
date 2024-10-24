@@ -37,5 +37,34 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "heroIntro",
+    "components": [
+      "commonTitle",
+      "commonImage",
+      "commonText",
+      "commonCta"
+    ]
+  },
+  {
+    "id": "stictyNavigation",
+    "components": [
+      "navlink"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "cards",
+      "columns",
+      "fragment",
+      "stictyNavigation",
+      "heroIntro"
+    ]
   }
 ]
