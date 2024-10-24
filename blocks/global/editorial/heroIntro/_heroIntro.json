@@ -81,27 +81,13 @@
     {
       "id": "heroIntro",
       "components": [
-        "heroImg",
-        "heroTitle",
-        "heroTxt"
-      ]
-    },
-    {
-      "id": "heroImg",
-      "components": [
-        "commonImage"
+        "heroTitle"
       ]
     },
     {
       "id": "heroTitle",
       "components": [
         "commonTitle"
-      ]
-    },
-    {
-      "id": "heroTxt",
-      "components": [
-        "commonText"
       ]
     }
   ]
