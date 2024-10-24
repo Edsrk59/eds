@@ -37,43 +37,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "heroIntro",
-    "components": [
-      "column"
-    ]
-  },
-  {
-    "id": "column",
-    "components": [
-      "commonTitle"
-    ]
-  },
-  {
-    "id": "column",
-    "components": [
-      "commonImage"
-    ]
-  },
-  {
-    "id": "stictyNavigation",
-    "components": [
-      "navlink"
-    ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title",
-      "cards",
-      "columns",
-      "fragment",
-      "stictyNavigation",
-      "heroIntro"
-    ]
   }
 ]
