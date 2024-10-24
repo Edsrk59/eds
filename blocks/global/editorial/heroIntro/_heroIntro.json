@@ -15,9 +15,6 @@
           }
         }
       }
-    },
-    {
-      "...": "../blocks/common/title/*/_*.json#/definitions"
     }
   ],
   "models": [
@@ -32,16 +29,19 @@
           "value": ""
         }
       ]
-    },
-    {
-      "...": "../blocks/common/title/*/_*.json#/models"
     }
   ],
   "filters": [
     {
       "id": "heroIntro",
       "components": [
-        "commonImage"
+        "common"
+      ]
+    },
+    {
+      "id": "common",
+      "components": [
+        "commonTitle"
       ]
     }
   ]
