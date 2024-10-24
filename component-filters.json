@@ -81,7 +81,8 @@
       "columns",
       "fragment",
       "stictyNavigation",
-      "heroIntro"
+      "heroIntro",
+      "commonTitle"
     ]
   }
 ]
