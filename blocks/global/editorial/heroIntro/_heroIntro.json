@@ -15,6 +15,51 @@
           }
         }
       }
+    },
+    {
+      "title": "Image",
+      "id": "heroImg",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Image",
+              "model": "heroImg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Title",
+      "id": "heroTitle",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Title",
+              "model": "heroTitle"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Text",
+      "id": "heroTxt",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Text",
+              "model": "heroTxt"
+            }
+          }
+        }
+      }
     }
   ],
   "models": [
@@ -35,8 +80,26 @@
     {
       "id": "heroIntro",
       "components": [
-        "commonTitle",
-        "commonImage",
+        "heroImg",
+        "heroTitle",
+        "heroTxt"
+      ]
+    },
+    {
+      "id": "heroImg",
+      "components": [
+        "commonImage"
+      ]
+    },
+    {
+      "id": "heroTitle",
+      "components": [
+        "commonTitle"
+      ]
+    },
+    {
+      "id": "heroTxt",
+      "components": [
         "commonText"
       ]
     }
