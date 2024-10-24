@@ -40,7 +40,8 @@
             "resourceType": "core/franklin/components/block/v1/block/item",
             "template": {
               "name": "Title",
-              "model": "heroTitle"
+              "model": "heroTitle",
+              "filter" : "heroTitle"
             }
           }
         }
