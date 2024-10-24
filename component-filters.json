@@ -37,5 +37,51 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "heroIntro",
+    "components": [
+      "heroImg",
+      "heroTitle",
+      "heroTxt"
+    ]
+  },
+  {
+    "id": "heroImg",
+    "components": [
+      "commonImage"
+    ]
+  },
+  {
+    "id": "heroTitle",
+    "components": [
+      "commonTitle"
+    ]
+  },
+  {
+    "id": "heroTxt",
+    "components": [
+      "commonText"
+    ]
+  },
+  {
+    "id": "stictyNavigation",
+    "components": [
+      "navlink"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "cards",
+      "columns",
+      "fragment",
+      "stictyNavigation",
+      "heroIntro"
+    ]
   }
 ]
